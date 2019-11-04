@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Models and Controllers and Views, Oh My!"
-date:       2019-11-04 18:08:26 +0000
+date:       2019-11-04 13:08:26 -0500
 permalink:  models_and_controllers_and_views_oh_my
 ---
 
@@ -54,6 +54,6 @@ I’m still playing catch up. I still try to tackle multiple things at once some
 The original quote that inspired this blog title is, of course, “Lions and tigers and bears, oh my!” and centers around Dorothy, the Tin Man, and Scarecrow when they feel that danger could be anywhere and everywhere around them. 
 With the Tin Man wanting a heart, and the Scarecrow wanting a brain, I found this whole image very applicable and resonant. I can be scared of all the things that could be everywhere, or I can know that it’s okay. That even if they *are* everywhere, that’s ok. That I can just do one thing at a time. 
 
-And ironically, somehow, that *is *a balance of heart and brain.
+And ironically, somehow, that *is* a balance of heart and brain.
 
 
