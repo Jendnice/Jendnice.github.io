@@ -1,12 +1,14 @@
 ---
 layout: post
 title:      "I'm going off the rails on a ~~crazy train~~ struggle bus"
-date:       2019-12-12 23:15:48 +0000
+date:       2019-12-12 18:15:49 -0500
 permalink:  im_going_off_the_rails_on_a_crazy_train_struggle_bus
 ---
 
 
-<p style="text-align: center;">![struggle_bus](https://media1.giphy.com/media/l0K4hqqqwgFijgVLa/200.webp?cid=790b761105613a16bb9e145eee50518c4ac72c8b98bae01f&rid=200.webp)</p>
+<p style="text-align: center;">
+![struggle_bus](https://media1.giphy.com/media/l0K4hqqqwgFijgVLa/200.webp?cid=790b761105613a16bb9e145eee50518c4ac72c8b98bae01f&rid=200.webp)
+</p>
 
 I did it. I finished my Rails project. Three project-starts, endless hours logged, and a migraine later, I did it. And as much as this project challenged me, the struggles were *tremendous* for my learning. In this blog, I’ll cover my top three struggles (and the subset of struggles within them) and what I learned from all of it. 
 
@@ -18,7 +20,9 @@ See, I had this idea for the app I wanted to build based on a lab we did where u
 
 I started out Project Attempt # 1 by implementing the Devise gem to handle user authentication. Devise is an incredible gem that does a *ton* of the heavy lifting for you. But, for what I wanted, I needed a lot of legit hands-on access to the User controller and views, which just isn’t ideal for Devise. I tried. *Oh, I tried.*
 
-<p style="text-align: center;">![Params-picbe807349db3e4edd.png](https://www.pastepic.xyz/images/2019/12/12/Params-picbe807349db3e4edd.png)</p>
+<p style="text-align: center;">
+![Params-picbe807349db3e4edd.png](https://www.pastepic.xyz/images/2019/12/12/Params-picbe807349db3e4edd.png)
+</p>
 
 As shown in the screenshot above, I implemented a “username” attribute for Users by overriding Devise’s sign_up_params and account_update_params. And that was about as far as I got. Every time I tried to reroute a User to a page I wanted to define, it was like hitting a brick wall. *Fine,* I thought, amidst gritted teeth and sweaty palms as the project week’s days peetered along. *Can’t stop me. I’ll just start over and make my app without Devise. That way I can do what I want.*
 
