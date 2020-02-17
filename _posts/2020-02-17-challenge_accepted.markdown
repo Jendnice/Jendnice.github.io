@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Challenge Accepted!"
+title:      "Final Project and Beyond...Challenge Accepted"
 date:       2020-02-17 15:20:43 -0500
 permalink:  challenge_accepted
 ---
