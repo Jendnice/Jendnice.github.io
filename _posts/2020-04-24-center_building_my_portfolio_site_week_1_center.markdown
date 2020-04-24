@@ -42,14 +42,14 @@ Why do I love these websites? What about them makes me happy?
 Now, the fun stuff…what tech is being used here? For this, I’d recommend narrowing the sites above down to one or two, just to minimized doing unnecessary research. I decided to focus my attention on Brittany Chiang’s website. (But I might revisit the others as I build mine, to work in aspects that I loved from theirs! Ah, the beauty of software development. 😊)
 
 Alright, so, what main tech is involved here? 
-* Gatsby: https://www.gatsbyjs.org/ 
-* Netlify: https://www.netlify.com/ (hosting)
+* Gatsby: [https://www.gatsbyjs.org/ ](https://www.gatsbyjs.org/)
+* Netlify: [https://www.netlify.com/](https://www.netlify.com/) (hosting)
 
 Any additional resources that might be helpful?
-* https://github.com/bchiang7/v4
-* https://medium.com/@vovakuzmenkov/get-a-website-with-github-pages-9151ed636446
-* https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f
-* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
+* [https://github.com/bchiang7/v4](https://github.com/bchiang7/v4)
+* [https://medium.com/@vovakuzmenkov/get-a-website-with-github-pages-9151ed636446](https://medium.com/@vovakuzmenkov/get-a-website-with-github-pages-9151ed636446)
+* [https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f]( https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f)
+* [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
 
 Now...dig in to resources on above tech!
 
