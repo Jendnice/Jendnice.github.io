@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "<center> Building my portfolio site – Week 1 </center>"
-date:       2020-04-24 18:12:48 +0000
+title:      "Building my portfolio site – Week 1"
+date:       2020-04-24 14:12:49 -0400
 permalink:  center_building_my_portfolio_site_week_1_center
 ---
 
