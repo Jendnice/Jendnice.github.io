@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "What Kind of Sorcery is This? "
-date:       2020-05-02 19:34:01 +0000
+date:       2020-05-02 15:34:02 -0400
 permalink:  what_kind_of_sorcery_is_this
 ---
 
-**_Unlocking the Power of Chrome DevTools_**
+_Unlocking the Power of Chrome DevTools_
 
 One of the discoveries I found extremely cool during bootcamp was that you can inspect websites through Chrome DevTools. And even open up a console in the DevTools and code JavaScript in it. Who knew that there was so much fun (and so much info!) accessible through a few simple keyboard commands! In this blog, I’m going to explain three ways I use Chrome DevTools.
 
